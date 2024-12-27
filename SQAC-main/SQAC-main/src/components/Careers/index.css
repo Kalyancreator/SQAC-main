@@ -1,0 +1,148 @@
+@media only screen and (min-width: 767px) {
+  .career-container {
+    padding: 30px;
+  }
+  .image-container {
+    height: 30vh;
+    width: 100vw;
+    background-size: cover;
+    padding: 30px;
+    background-image: url('https://images.pexels.com/photos/7130496/pexels-photo-7130496.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+  }
+  .heading-career {
+    color: #29375a;
+    font-size: 50px;
+    font-family: roboto;
+    margin-left: 30px;
+  }
+  .paragraph-career {
+    color: #ada812;
+    margin-left: 30px;
+    font-size: 30px;
+  }
+  .image-container2-career {
+    background-image: url('https://www.technocrazed.com/wp-content/uploads/2015/12/Blue-Wallpaper-For-Background-1.jpg');
+    height: 90vh;
+    width: 100vw;
+    padding: 40px;
+    margin-top: 10px;
+  }
+  .join-heading {
+    color: #c3ff00;
+    font-family: roboto;
+    font-size: 40px;
+  }
+  .join-paragraph {
+    font-family: bree-serif;
+    font-size: 20px;
+    color: #00fff2;
+    font-weight: 500;
+    text-decoration: underline;
+  }
+  .role-container {
+    margin-top: 30px;
+  }
+  .roles {
+    color: #b5c15e;
+    font-family: roboto;
+    font-weight: 500;
+  }
+
+  .hf {
+    text-align: center;
+    font-family: roboto;
+    font-weight: 800;
+    color: #e09577;
+    width: 350px;
+    margin-left: 400px;
+  }
+  .pf {
+    font-weight: bold;
+    font-size: 30px;
+    font-family: roboto;
+    margin-left: 450px;
+  }
+  .last-button {
+    background-color: black;
+    color: #e09577;
+    border-radius: 10px;
+    border: none;
+    padding: 10px;
+    margin-left: 500px;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .career-container {
+    padding: 20px;
+    max-width: 400px;
+  }
+  .image-container {
+    height: 50vh;
+    background-size: cover;
+    padding: 20px;
+    background-image: url('https://media.licdn.com/dms/image/D4D12AQFteOxOrNBbfg/article-cover_image-shrink_600_2000/0/1677830532727?e=2147483647&v=beta&t=abeM0hNdn-cFTXZp0We-T7P4WSX0m7ibkrEgFPkpJuw');
+    display: flex;
+    max-width: 400px;
+  }
+  .heading-career {
+    color: #f28705;
+    font-size: 40px;
+    font-family: roboto;
+  }
+  .image-container2-career {
+    background-image: url('https://www.technocrazed.com/wp-content/uploads/2015/12/Blue-Wallpaper-For-Background-1.jpg');
+    height: 40vh;
+    max-width: 400px;
+    padding: 30px;
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+  }
+  .join-heading {
+    color: #ffb508;
+    font-family: roboto;
+    font-size: 25px;
+    max-width: 400px;
+  }
+  .join-paragraph {
+    font-family: roboto;
+    font-size: 15px;
+    color: #ffff;
+  }
+  .role-container {
+    margin-left: 20px;
+  }
+  .roles {
+    color: #ffff;
+    font-family: roboto;
+  }
+  .contact-career-container {
+    height: 40vh;
+    max-width: 400px;
+    background-color: #e7a200;
+    margin-top: 5px;
+    padding: 10px;
+  }
+  .hf {
+    font-family: roboto;
+    font-weight: 800;
+    color: #ffff;
+    max-width: 400px;
+    margin-left: 20px;
+  }
+  .pf {
+    font-weight: bold;
+    font-size: 30px;
+    font-family: roboto;
+    margin-left: 20px;
+  }
+  .last-button {
+    background-color: black;
+    color: #ffff;
+    border-radius: 10px;
+    border: none;
+    padding: 10px;
+    margin-left: 20px;
+  }
+}
