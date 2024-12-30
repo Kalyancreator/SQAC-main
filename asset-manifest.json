@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/SQAC-main.git/static/css/main.5e74cd98.css",
+    "main.js": "/SQAC-main.git/static/js/main.1780a3e2.js",
+    "static/media/slick.svg": "/SQAC-main.git/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/SQAC-main.git/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/SQAC-main.git/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/SQAC-main.git/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/SQAC-main.git/index.html",
+    "main.5e74cd98.css.map": "/SQAC-main.git/static/css/main.5e74cd98.css.map",
+    "main.1780a3e2.js.map": "/SQAC-main.git/static/js/main.1780a3e2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e74cd98.css",
+    "static/js/main.1780a3e2.js"
+  ]
+}
